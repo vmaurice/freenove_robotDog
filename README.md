@@ -12,6 +12,8 @@ https://drive.google.com/drive/folders/1NsjaSylCIaOMEB3ZcaLLbi_SsEq5EQJs?usp=sha
 
 ## Suivi en temps réel
 
+Exemple quand il fait l'animation " Hello "
+
 <p align="center">
     <img  width="600" src="Ressources/influxdb.png" alt="influxdb">
 </p>
