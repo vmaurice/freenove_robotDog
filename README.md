@@ -19,3 +19,8 @@ L'objectif du projet est de créer une collaboration entre des robots et d'ajout
     <img  width="300" src="Ressources/manette.jpg" alt="manette">
 </p>
 
+## Trouver en premier la balle rouge pourvut d'obstacles entre plusieurs robots chien
+
+<p align="center">
+    <img  width="400" src="Ressources/ball.jpg" alt="ball">
+</p>
