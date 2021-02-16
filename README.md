@@ -3,6 +3,9 @@
 Projet de fin d'études réalisé avec la collaboration de Florian Boisnon et de Blaise Prevost.
 L'objectif du projet est de créer une collaboration entre des robots et d'ajouter des fonctionnalités.
 
+L'ensemble des photos et vidéos sont retrouvables sur :
+https://drive.google.com/drive/folders/1NsjaSylCIaOMEB3ZcaLLbi_SsEq5EQJs?usp=sharing
+
 <p align="center">
     <img  width="500" src="Ressources/profil.jpg" alt="profil">
 </p>
